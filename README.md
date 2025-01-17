@@ -24,6 +24,12 @@ Phoenix-MD is a secure, end-to-end encrypted WhatsApp bot built using Node.js. I
        src='https://img.shields.io/badge/GET_SESSION_ID-100000?style=for-the-badge&logo=link&logoColor=white&labelColor=black&color=black'/>
 </a>
 
+**Edit config.js:**
+     <br>
+<a href="https://github.com/${{ github.repository }}/tree/main/config.js" target="_blank">
+  <img alt="Edit Config" 
+       src="https://img.shields.io/badge/EDIT_CONFIG-100000?style=for-the-badge&logo=link&logoColor=white&labelColor=black&color=black"/>
+</a>
 
 #### DEPLOY ON HEROKU 
 
