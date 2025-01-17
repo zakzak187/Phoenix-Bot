@@ -12,7 +12,7 @@ Phoenix-MD is a secure, end-to-end encrypted WhatsApp bot built using Node.js. I
 
 ### Setup
 
-**Fork The Repo:**  
+**Fork This Repo:**  
 <a href="https://github.com/AbhishekSuresh2/Phoenix-Bot/fork">
   <img title="Phoenix-MD" src="https://img.shields.io/badge/FORK Phoenix MD-h?color=black&style=for-the-badge&logo=stackshare" />
 </a>
