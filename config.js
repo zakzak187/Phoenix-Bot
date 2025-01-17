@@ -45,7 +45,7 @@ module.exports = {
   ALWAYS_ONLINE: toBool(process.env.ALWAYS_ONLINE || 'false'),
   AUTO_CALL_REJECT: toBool(process.env.AUTO_CALL_REJECT || 'false'),
   AUTO_CALL_REJECT_MSG: process.env.AUTO_CALL_REJECT_MSG || '*ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ᴄᴀʟʟ ʙʟᴏᴄᴋɪɴɢ*\n\nꜱᴏʀʀʏ ᴄᴀʟʟꜱ ᴀʀᴇ ɴᴏᴛ ᴀʟʟᴏᴡᴇᴅ\n\nᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴀ ᴛᴇxᴛ ᴍᴇꜱꜱᴀɢᴇ/ᴠᴏɪᴄᴇ ᴍᴇꜱꜱᴀɢᴇ\n\n> ᴘʜᴏᴇɴɪx-ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
-//_______________#OTHER(⚠️ Warning Dont Edit Anything Here)______________________________________________________________________________________
+//_______________#OTHER(⚠️ Warning Dont Edit Anything Here)____________________________________________________________________________________
   BASE_URL: 'https://abhi-api-wphp.onrender.com/', // Don't Change This
   BRANCH: 'main',
   DATABASE: DATABASE_URL === "./database.db" ? new Sequelize({ dialect: "sqlite", storage: DATABASE_URL, logging: false }) : new Sequelize(DATABASE_URL, {dialect: "postgres", ssl: true, protocol: "postgres", dialectOptions: { native: true, ssl: { require: true, rejectUnauthorized: false },}, logging: false })
