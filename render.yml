@@ -1,0 +1,54 @@
+services:
+  - type: web
+    name: phoenix-md
+    repo: https://github.com/AbhishekSuresh2/Phoenix-Bot.git
+    branch: main
+    env: docker
+    dockerfilePath: Dockerfile
+    plan: free
+    autoDeploy: true
+    envVars:
+      - key: RENDER_APP_NAME
+        sync: false
+        required: true
+      - key: RENDER_API
+        sync: false
+        required: true
+      - key: SESSION_ID
+        sync: false
+        required: true
+      - key: PREFIX
+        value: .
+        required: false
+      - key: MODE
+        value: public
+        required: false
+      - key: START_MSG
+        value: true
+        required: false
+     - key: ERROR_MSG
+        value: true
+        required: false   
+     - key: AUTO_STATUS_VIEW
+        value: false
+        required: false
+     - key: AUTO_REACT
+        value: false
+        required: false    
+      - key: SUDO
+        value: 919074692450, 918157993101
+        required: false
+      - key: AUDIO_DATA
+        value: Phoenix-MD;Abhishek Suresh;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg
+        required: false
+      - key: STICKER_DATA
+        value: 🎯ᴘʜᴏᴇɴɪx-ᴍᴅ;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ🍀
+        required: false  
+      - key: BOT_INFO
+        value: ᴘʜᴏᴇɴɪx-ᴍᴅ;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ;919074692450;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg
+        required: false
+      - key: ALIVE_DATA
+        value: 👋 ʜᴇʏ &sender, ɪ ᴍ *ᴘʜᴏᴇɴɪx-ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ* ᴀʟɪᴠᴇ ɴᴏᴡ!\n\n📌 ᴛʏᴘᴇ *menu* ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.\n\n*ᴘʟᴀᴛꜰᴏʀᴍ:* &platform\n*ʀᴜɴᴛɪᴍᴇ:* &runtime;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg
+        required: false
+       
+        
