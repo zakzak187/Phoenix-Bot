@@ -40,7 +40,7 @@ Phoenix-MD is a secure, end-to-end encrypted WhatsApp bot built using Node.js. I
 
 3. Now Deploy
     <br>
-<a href='https://phoenix-md-bot-deploy.vercel.app/heroku' target="_blank"><img alt='Phoenix-MD Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://phoenix-md-wabot-deploy.vercel.app/heroku' target="_blank"><img alt='Phoenix-MD Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 #### DEPLOY ON KOYEB 
 
@@ -52,7 +52,7 @@ Phoenix-MD is a secure, end-to-end encrypted WhatsApp bot built using Node.js. I
 
 3. Now Deploy
     <br>
-<a href='https://phoenix-md-bot-deploy.vercel.app/koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://phoenix-md-wabot-deploy.vercel.app/koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 #### DEPLOY ON RENDER 
 
@@ -64,7 +64,7 @@ Phoenix-MD is a secure, end-to-end encrypted WhatsApp bot built using Node.js. I
 
 3. Now Deploy
     <br>
-<a href='https://phoenix-md-bot-deploy.vercel.app/render' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+<a href='https://phoenix-md-wabot-deploy.vercel.app/render' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
 4. Connect To [Uptimer Robot](https://uptimerobot.com/) To Make Bot Work Work For 24/7.
 
@@ -76,7 +76,7 @@ Phoenix-MD is a secure, end-to-end encrypted WhatsApp bot built using Node.js. I
 
 2. Now Deploy
     <br>
-<a href='https://phoenix-md-bot-deploy.vercel.app/replit' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<a href='https://phoenix-md-wabot-deploy.vercel.app/replit' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 3. Connect To [Uptimer Robot](https://uptimerobot.com/) To Make Bot Work Work For 24/7.
 
